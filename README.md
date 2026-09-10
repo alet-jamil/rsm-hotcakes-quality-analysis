@@ -60,3 +60,6 @@ ggplot(datos, aes(x = Leche_num, y = Esponjocidad)) +
        x = "Leche (Tazas)",
        y = "Esponjosidad (mm)") +
   theme_minimal()
+
+## 📄 Documentos y Archivos del Proyecto
+* [Ver Reporte Final en PDF](file:///C:/Users/aletj/Downloads/An%C3%A1lisis%20Experimental%20de%20Calidad%20de%20Hot%20Cakes%20-%20Reporte%20Final.pdf)
