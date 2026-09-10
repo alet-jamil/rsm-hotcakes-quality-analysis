@@ -58,8 +58,5 @@ ggplot(datos, aes(x = Leche_num, y = Esponjocidad)) +
   geom_smooth(method = "lm", se = FALSE, color = "red") +
   labs(title = "Esponjosidad vs Proporción de Leche",
        x = "Leche (Tazas)",
-
-## 📄 Documentación Completa
-Puedes consultar el reporte completo en formato PDF aquí: [Ver Reporte en PDF](./Análisis Experimental de Calidad de Hot Cakes - Reporte Final.pdf)
        y = "Esponjosidad (mm)") +
   theme_minimal()
